@@ -1,0 +1,25 @@
+{
+  "blyg": "0.4",
+  "id": "4z3jc8x1mre86fffmvdtg1tjxf",
+  "kind": "thread",
+  "origin": "https://ksurya.github.io/test-blyg2/",
+  "page": "posts/4z3jc8x1mre86fffmvdtg1tjxf/",
+  "author": {
+    "name": "Surya Kasturi"
+  },
+  "created": "2026-11-21T21:11:56.005Z",
+  "updated": "2026-11-21T21:11:56.005Z",
+  "version": 1,
+  "content_md": "Hello, this is a post! \n\nInterestingly. ",
+  "content_html": "<p>Hello, this is a post! </p>\n<p>Interestingly. </p>\n",
+  "content_hash": "sha256:98a7d1ca5c14f8ed44cae0fda11cf74e41764d75b95e2af7bfc02b82fbe8a959",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-11-21T21:11:56.005Z",
+      "note": null
+    }
+  ],
+  "transclusions": []
+}
